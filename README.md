@@ -1,4 +1,4 @@
-Smart Dual-Coding Assistant (AYUSH ↔ ICD-11)
+Smart Dual-Coding Assistant (AYUSH ↔ ICD-11)...PROTOTYPE
 
 A lightweight software service that bridges Traditional Medicine (AYUSH/NAMASTE) and Modern Medicine (ICD-11) by enabling dual coding, aligned with India’s EHR standards (FHIR R4) and ABDM consent framework.
 
